@@ -1,0 +1,17 @@
+/*
+ * @Author: chip
+ * @Date: 2018-02-26 16:23:15
+ * @Last Modified by:   chip
+ * @Last Modified time: 2018-02-26 16:23:15
+ */
+ 
+/**app.wxss**/
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+} 

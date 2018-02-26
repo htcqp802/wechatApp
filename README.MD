@@ -1,31 +1,31 @@
 > 目录结构
 
-|-- config                   # 配置文件
+├── config                   # 配置文件
 
-|-- dit                      # 最终生成目录
+├── dit                      # 最终生成目录
 
-|-- node_modules             # npm依赖包
+├── node_modules             # npm依赖包
 
-|-- src                      # 开发目录
+├── src                      # 开发目录
 
-  |-- common                 # 公共文件
+│ ├── common                 # 公共文件
 
-    |-- api                  # 接口
+│ │ ├── api                  # 接口
 
-  |-- components             # 组件
+│ ├── components             # 组件
 
-  |-- core                   # 微信原生方法封装（此文件内 不得与业务逻辑有关）
+│ ├── core                   # 微信原生方法封装（此文件内 不得与业务逻辑有关）
 
-  |-- pages                  # 业务文件
+│ ├── pages                  # 业务文件
 
 
-|-- .babelrc                 # babel 配置文件
+├── .babelrc                 # babel 配置文件
 
-|-- .eslintrc                # eslint 配置文件
+├── .eslintrc                # eslint 配置文件
 
-|-- .gulpfile.babel.js       # gulp task文件
+├── .gulpfile.babel.js       # gulp task文件
 
-|-- package.json             # npm 配置文件
+├── package.json             # npm 配置文件
 
 > 简述
 

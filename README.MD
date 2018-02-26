@@ -2,7 +2,7 @@
 
 ├── config　　　　　　　　　　　　# 配置文件
 
-├── dit　　　　　　　　　　　　　　# 最终生成目录
+├── dist　　　　　　　　　　　　　　# 最终生成目录
 
 ├── node_modules　　　　　　　　 # npm依赖包
 

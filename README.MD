@@ -55,7 +55,7 @@ npm i # 安装依赖包
 ```
 
 ```
-npm run start # 开发环境
+npm start # 开发环境
 ```
 
 ```

@@ -1,13 +1,14 @@
 /*
  * @Author: chip
  * @Date: 2018-02-26 16:23:04
- * @Last Modified by:   chip
- * @Last Modified time: 2018-02-26 16:23:04
+ * @Last Modified by: chip
+ * @Last Modified time: 2018-02-27 19:39:48
  */
 
-//app.js 111
+import login from './common/server/login';
+
 App({
-  onLaunch: function () {
-    console.info('enter app');
+  onLaunch: function ({ path }) {
+    login(path);
   },
 })

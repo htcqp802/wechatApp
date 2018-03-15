@@ -46,9 +46,6 @@
 
 > 使用方法
 
-```
-git clone http://172.16.117.13/fe-team/sanlandWechatApp.git
-```
 
 ```
 npm i # 安装依赖包
